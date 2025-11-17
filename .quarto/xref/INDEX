@@ -1,0 +1,24 @@
+{
+  "people.qmd": {
+    "people.html": "858f00ef"
+  },
+  "contact.qmd": {
+    "contact.html": "024ee445"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "7bc6ffb8"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "8033f81e"
+  },
+  "mission.qmd": {
+    "mission.html": "e66a6ec4"
+  },
+  "about.qmd": {
+    "about.html": "8737f432"
+  },
+  "index.qmd": {
+    "index.html": "60ded54f",
+    "index.md": "fbde5017"
+  }
+}

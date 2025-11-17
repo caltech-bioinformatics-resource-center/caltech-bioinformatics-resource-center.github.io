@@ -1,0 +1,57 @@
+---
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+:::{.about-content}
+# Who We Are
+The Caltech Bioinformatics Research Center develops bioinformatics workflows,
+facilitates the analysis of biological data, benchmarks methods, and provides bioinformatics and statistics consulting. The center supports projects involving both technology development
+and biological discovery, with current emphasis on bioinformatics for genomics, transcriptomics, and epigenomics.
+:::
+
+:::{.team-section}
+## Meet Our Team
+
+:::{.team-grid}
+
+:::{.team-card}
+<h3>Lior Pachter</h3>
+<strong>Faculty Supervisor</strong><br>
+
+:::{.team-contact}
+<em>Office:</em> CNRB 247<br>
+<a href="https://pachterlab.github.io/"><strong>Lab Website</strong></a><br>
+<em>Email:</em> <a href="mailto:lpachter@caltech.edu">lpachter@caltech.edu</a>
+:::
+
+:::
+
+:::{.team-card}
+<h3>Ingileif Hallgrimsdottir</h3>
+<strong>Statistician</strong><br>
+
+:::{.team-contact}
+<em>Office:</em> BBB 236<br>
+<em>Email:</em> <a href="mailto:ingileif@caltech.edu">ingileif@caltech.edu</a>
+:::
+
+:::
+
+:::{.team-card}
+<h3>Maya Caskey</h3>
+
+<strong>Research Technician</strong><br><br>
+
+:::{.team-contact}
+<em>Office:</em> BCK 342<br>
+<em>Email:</em> <a href="mailto:mcaskey@caltech.edu">mcaskey@caltech.edu</a>
+:::
+
+:::
+
+:::
+:::
+

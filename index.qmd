@@ -1,0 +1,48 @@
+---
+page-layout: full
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+:::{.hero}
+:::{.hero-title }
+Caltech Bioinformatics Resource Center
+:::
+:::
+
+
+:::{.intro-blurb}
+At the Caltech Bioinformatics Resource Center, we’re here to make computational biology approachable. Whether you’re just starting your first single-cell RNA-seq project or refining your analysis workflow, we’ll help you find the right tools and methods for your research — and understand why they work. 
+:::
+
+<br>
+
+
+::: {layout-ncol=1}
+::: {.card}
+### Who We Are  
+The CBRC team — here to help you analyze and interpret your data.  
+[Meet the Team →](about.qmd)
+:::
+
+---
+
+::: {.card}
+### Tutorials  
+Visit our companion tutorial site to learn about our data analysis workflows.  
+[Go to Tutorials →](https://pachterlab.github.io/cbrc-spec/)
+:::
+
+---
+
+::: {.card}
+### Contact  
+Reach out to us for collaborations, consultations, or training support.  
+[Get in Touch →](contact.qmd)
+:::
+
+---
+
+:::

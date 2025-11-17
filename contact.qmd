@@ -1,0 +1,28 @@
+---
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+:::{.contact-content}
+# Get In Touch
+We welcome inquiries from **Caltech students, postdocs, and faculty** who are interested in biological data analysis or need assistance setting up a data analysis workflow.
+:::
+
+:::{.contact-info}
+**Location:** BCK 340 <br>
+**Email:** <a href="mailto:bioinformatics@caltech.edu">bioinformatics@caltech.edu</a>
+:::
+
+:::{.contact-dark}
+Before starting your experiment, we request that you meet with us to go over your experiment goals. This helps ensure you get the most out of your data.
+
+If you’re seeking help with a project, please include:
+
+* A short description of your research question  
+* The type of data (e.g., scRNA-seq, bulk RNA-seq, spatial transcriptomics)  
+* What stage your project is in and what you’d like help with
+
+We recommend that you view our [**tutorial page**](https://pachterlab.github.io/cbrc-spec/) before contacting us.
+:::

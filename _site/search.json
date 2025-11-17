@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Our People",
+    "section": "",
+    "text": "Dr. [Faculty Name]\nDepartment of [Department Name]\nExpert in computational genomics and systems biology.\n📧 [Email Address]\n\n\n\n\n[Statistician Name]\nSpecialist in statistical modeling and high-dimensional biological data.\n📧 [Email Address]\n\n\n\n\n[Technician Name]\nExperienced in RNA-seq and single-cell bioinformatics pipelines.\n📧 [Email Address]"
+  },
+  {
+    "objectID": "people.html#our-team",
+    "href": "people.html#our-team",
+    "title": "People",
+    "section": "",
+    "text": "Lior Pachter\nDepartment of [Department Name]\nExpert in computational genomics and data-driven biology.\n📧 [Email Address] | 🌐 [Lab Website]\n\n\n\n\nIngileif Hallgrimsdottir\nSpecialist in statistical modeling and analysis for high-dimensional biological data.\nSupports data normalization, model development, and visualization workflows.\n📧 [Email Address]\n\n\n\n\nMaya Caskey\nExperienced in bioinformatics pipelines for single-cell and bulk RNA-seq experiments.\nAssists students and researchers in data management and analysis.\n📧 [mcaskey@caltech.edu]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Who We Are",
+    "section": "",
+    "text": "The Caltech Bioinformatics Research Center develops bioinformatics workflows, facilitates the analysis of biological data, benchmarks methods, and provides bioinformatics and statistics consulting. The center supports projects involving both technology development and biological discovery, with current emphasis on bioinformatics for genomics, transcriptomics, and epigenomics."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get In Touch",
+    "section": "",
+    "text": "Get In Touch\nWe welcome inquiries from Caltech students, postdocs, and faculty who are interested in biological data analysis or need assistance setting up a data analysis workflow.\n\n\nLocation: BCK 340  Email: bioinformatics@caltech.edu\n\n\nBefore starting your experiment, we request that you meet with us to go over your experiment goals. This helps ensure you get the most out of your data.\nIf you’re seeking help with a project, please include:\n\nA short description of your research question\n\nThe type of data (e.g., scRNA-seq, bulk RNA-seq, spatial transcriptomics)\n\nWhat stage your project is in and what you’d like help with\n\nWe recommend that you view our tutorial page before contacting us."
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact Us",
+    "section": "",
+    "text": "We welcome inquiries from Caltech students, postdocs, and faculty who are interested in biological data analysis or need assistance setting up pipelines.\n📍 Location: [Building / Office, Caltech Campus]\n✉️ Email: [center-email@caltech.edu]\n🌐 Website: [your Quarto tutorial site link]\n\nIf you’re seeking help with a project, please include: - A short description of your research question\n- The type of data (e.g., scRNA-seq, bulk RNA-seq, spatial transcriptomics)\n- What stage your project is in and what you’d like help with"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "mission.html",
+    "href": "mission.html",
+    "title": "Our Mission",
+    "section": "",
+    "text": "The Caltech Bioinformatics Research Center (CBRC) supports the Caltech research community in bioinformatics and computational biology.\nOur mission is to: - Enable reproducible and scalable data analysis workflows\n- Train graduate students in single-cell genomics, bulk RNA-seq, and spatial transcriptomics\n- Provide consulting and mentorship in computational best practices\nBy fostering open science and collaboration, CBRC helps transform complex biological data into meaningful discoveries."
+  },
+  {
+    "objectID": "mission.html#empowering-data-driven-discovery",
+    "href": "mission.html#empowering-data-driven-discovery",
+    "title": "Our Mission",
+    "section": "",
+    "text": "The Caltech Bioinformatics Research Center (CBRC) supports the Caltech research community in bioinformatics and computational biology.\nOur mission is to: - Enable reproducible and scalable data analysis workflows\n- Train graduate students in single-cell genomics, bulk RNA-seq, and spatial transcriptomics\n- Provide consulting and mentorship in computational best practices\nBy fostering open science and collaboration, CBRC helps transform complex biological data into meaningful discoveries."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CBRC",
+    "section": "",
+    "text": "Caltech Bioinformatics Resource Center\n\n\n\nAt the Caltech Bioinformatics Resource Center, we’re here to make computational biology approachable. Whether you’re just starting your first single-cell RNA-seq project or refining your analysis workflow, we’ll help you find the right tools and methods for your research — and understand why they work.\n\n\n\n\n\nWho We Are\nThe CBRC team — here to help you analyze and interpret your data.\nMeet the Team →\n\n\n\n\n\n\n\n\n\nTutorials\nVisit our companion tutorial site to learn about our data analysis workflows.\nGo to Tutorials →\n\n\n\n\n\n\n\n\n\nContact\nReach out to us for collaborations, consultations, or training support.\nGet in Touch →"
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "Caltech Bioinformatics Research Center",
+    "section": "",
+    "text": "🧬 Our Mission: Learn what drives our work and how we support the Caltech community.\n\n👩‍🔬 Our People: Meet the team behind the CBDA.\n\n✉️ Contact Us: Reach out for assistance or collaboration.\n\n📘 Quarto Tutorial Site — Learn to build your own reproducible analysis pipelines.\n\n\n\nTurning biological data into discovery — together."
+  },
+  {
+    "objectID": "index.html#about-cbrc",
+    "href": "index.html#about-cbrc",
+    "title": "Caltech Bioinformatics Research Center",
+    "section": "About CBRC",
+    "text": "About CBRC\nThe Caltech Bioinformatics Research Center (CBRC) supports researchers and graduate students in developing computational biology pipelines, mastering data analysis, and applying current best practices in single-cell genomics, bulk RNA-seq, and spatial transcriptomics.\nWe are dedicated to fostering a culture of open, reproducible, and collaborative science within the Caltech community."
+  },
+  {
+    "objectID": "index.html#explore-cbrc",
+    "href": "index.html#explore-cbrc",
+    "title": "CBRC",
+    "section": "Explore CBRC",
+    "text": "Explore CBRC\n\n\n\nWho We Are\nMeet the faculty, staff, and researchers that make CBRC possible.\nMeet the Team →\n\n\n\n\nContact\nReach out to us for collaborations, consultations, or training support.\nGet in Touch →\n\n\n\n\nTutorials\nVisit our companion Quarto tutorial site to learn about our data analysis workflows.\nGo to Tutorials →"
+  },
+  {
+    "objectID": "index.html#latest-updates",
+    "href": "index.html#latest-updates",
+    "title": "Caltech Bioinformatics Research Center",
+    "section": "Latest Updates",
+    "text": "Latest Updates\nStay informed about new workshops, pipelines, and data analysis resources offered by CBRC.\n\n\nOctober 2025: New single-cell RNA-seq tutorial launched.\n\nSeptember 2025: Workshop: “Building reproducible analysis pipelines in Quarto.”\n\nAugust 2025: Added support resources for spatial transcriptomics projects."
+  },
+  {
+    "objectID": "people.html#meet-the-team",
+    "href": "people.html#meet-the-team",
+    "title": "Our People",
+    "section": "",
+    "text": "Dr. [Faculty Name]\nDepartment of [Department Name]\nExpert in computational genomics and systems biology.\n📧 [Email Address]\n\n\n\n\n[Statistician Name]\nSpecialist in statistical modeling and high-dimensional biological data.\n📧 [Email Address]\n\n\n\n\n[Technician Name]\nExperienced in RNA-seq and single-cell bioinformatics pipelines.\n📧 [Email Address]"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "CBRC",
+    "section": "",
+    "text": "Who We Are\nMeet the faculty, staff, and researchers that make CBRC possible.\nMeet the Team →\n\n\n\n\nContact\nReach out to us for collaborations, consultations, or training support.\nGet in Touch →\n\n\n\n\nTutorials\nVisit our companion Quarto tutorial site to learn about our data analysis workflows.\nGo to Tutorials →"
+  },
+  {
+    "objectID": "index.html#our-mission",
+    "href": "index.html#our-mission",
+    "title": "CBRC",
+    "section": "Our Mission",
+    "text": "Our Mission\n\nAt the Caltech Bioinformatics Research Center, we’re here to make computational biology approachable. Whether you’re just starting your first single-cell RNA-seq project or refining your analysis workflow, we’ll help you find the right tools and methods for your research — and understand why they work.\n\n\n\n\n\n\nWho We Are\nMeet the faculty, staff, and researchers that make CBRC possible.\nMeet the Team →\n\n\n\n\n\n\n\n\n\nContact\nReach out to us for collaborations, consultations, or training support.\nGet in Touch →\n\n\n\n\n\n\n\n\n\nTutorials\nVisit our companion tutorial site to learn about our data analysis workflows.\nGo to Tutorials →"
+  },
+  {
+    "objectID": "about.html#empowering-data-driven-discovery",
+    "href": "about.html#empowering-data-driven-discovery",
+    "title": "Who We Are",
+    "section": "",
+    "text": "The Caltech Bioinformatics Research Center (CBRC) supports the Caltech research community in bioinformatics and computational biology.\nOur mission is to: - Enable reproducible and scalable data analysis workflows\n- Train graduate students in single-cell genomics, bulk RNA-seq, and spatial transcriptomics\n- Provide consulting and mentorship in computational best practices\nBy fostering open science and collaboration, CBRC helps transform complex biological data into meaningful discoveries."
+  },
+  {
+    "objectID": "about.html#meet-the-team",
+    "href": "about.html#meet-the-team",
+    "title": "Who We Are",
+    "section": "Meet the Team",
+    "text": "Meet the Team\n\n\nFaculty Supervisor\nLior Pachter Bren Professor of Computational Biology Office: Room 247, Chen Neuroscience Research Building Email: lpachter@caltech.edu\n\n\nStatistician\nIngileif Hallgrimsdottir Office: Room 236, Beckman Behavioral Biology Laboratory Email: ingileif@caltech.edu\n\n\nResearch Technician\nMaya Caskey Office: Room 342, Beckman Institute Email: mcaskey@caltech.edu"
+  },
+  {
+    "objectID": "about.html#meet-our-team",
+    "href": "about.html#meet-our-team",
+    "title": "Who We Are",
+    "section": "Meet Our Team",
+    "text": "Meet Our Team\n\n\n\nLior Pachter\n\nFaculty Supervisor\n\nOffice: CNRB 247 Lab Website Email: lpachter@caltech.edu\n\n\n\n\nIngileif Hallgrimsdottir\n\nStatistician\n\nOffice: BBB 236 Email: ingileif@caltech.edu\n\n\n\n\nMaya Caskey\n\nResearch Technician\n\nOffice: BCK 342 Email: mcaskey@caltech.edu"
+  }
+]
