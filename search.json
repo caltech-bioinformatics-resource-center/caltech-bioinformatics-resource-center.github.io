@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Who We Are",
+    "section": "",
+    "text": "The Caltech Bioinformatics Research Center develops bioinformatics workflows, facilitates the analysis of biological data, benchmarks methods, and provides bioinformatics and statistics consulting. The center supports projects involving both technology development and biological discovery, with current emphasis on bioinformatics for genomics, transcriptomics, and epigenomics."
+  },
+  {
+    "objectID": "about.html#meet-our-team",
+    "href": "about.html#meet-our-team",
+    "title": "Who We Are",
+    "section": "Meet Our Team",
+    "text": "Meet Our Team\n\n\n\nLior Pachter\n\nFaculty Supervisor\n\nOffice: CNRB 247 Lab Website Email: lpachter@caltech.edu\n\n\n\n\nIngileif Hallgrimsdottir\n\nStatistician\n\nOffice: BBB 236 Email: ingileif@caltech.edu\n\n\n\n\nMaya Caskey\n\nResearch Technician\n\nOffice: BCK 342 Email: mcaskey@caltech.edu"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get In Touch",
+    "section": "",
+    "text": "Get In Touch\nWe welcome inquiries from Caltech students, postdocs, and faculty who are interested in biological data analysis or need assistance setting up a data analysis workflow.\n\n\nLocation: BCK 340  Email: bioinformatics@caltech.edu\n\n\nBefore starting your experiment, we request that you meet with us to go over your experiment goals. This helps ensure you get the most out of your data.\nIf you’re seeking help with a project, please include:\n\nA short description of your research question\n\nThe type of data (e.g., scRNA-seq, bulk RNA-seq, spatial transcriptomics)\n\nWhat stage your project is in and what you’d like help with\n\nWe recommend that you view our tutorial page before contacting us."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CBRC",
+    "section": "",
+    "text": "Caltech Bioinformatics Resource Center\n\n\n\nAt the Caltech Bioinformatics Resource Center, we’re here to make computational biology approachable. Whether you’re just starting your first single-cell RNA-seq project or refining your analysis workflow, we’ll help you find the right tools and methods for your research — and understand why they work.\n\n\n\n\n\nWho We Are\nThe CBRC team — here to help you analyze and interpret your data.\nMeet the Team →\n\n\n\n\n\n\n\n\n\nTutorials\nVisit our companion tutorial site to learn about our data analysis workflows.\nGo to Tutorials →\n\n\n\n\n\n\n\n\n\nContact\nReach out to us for collaborations, consultations, or training support.\nGet in Touch →"
+  }
+]
