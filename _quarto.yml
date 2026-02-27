@@ -16,7 +16,7 @@ website:
       left: |
         <img src="black_Caltech_logo.png" alt="CBRC logo" class="footer-logo">
       right: |
-        © 2025 Caltech Bioinformatics Research Center
+        © 2025 Caltech Bioinformatics Resource Center
   search: false
 
 format:
