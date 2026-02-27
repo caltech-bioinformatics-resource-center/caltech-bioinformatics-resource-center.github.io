@@ -1,1 +1,1 @@
-Sitemap: https://your-website-url.example.com/sitemap.xml
+Sitemap: https://pachterlab.github.io/CBRC/sitemap.xml
