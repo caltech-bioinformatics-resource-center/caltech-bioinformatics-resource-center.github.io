@@ -9,7 +9,7 @@ website:
       - text: "Who We Are"
         href: about.qmd
       - text: "Tutorials"
-        href: https://pachterlab.github.io/cbrc-spec/
+        href: https://caltech-bioinformatics-resource-center.github.io/Tutorials/
       - text: "Contact Us"
         href: contact.qmd
   page-footer:
