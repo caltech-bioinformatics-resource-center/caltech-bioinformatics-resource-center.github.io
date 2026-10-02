@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - google348074bdd9084810.html
+    - robots.txt
 
 website:
   title: "CBRC"
