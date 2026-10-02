@@ -5,6 +5,9 @@ project:
 
 website:
   title: "CBRC"
+  open-graph:
+    site-name: "Caltech Bioinformatics Resource Center"
+  site-url: "https://caltech-bioinformatics-resource-center.github.io/"
   navbar:
     background: light
     right:
