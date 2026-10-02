@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - google348074bdd9084810.html
 
 website:
   title: "CBRC"
