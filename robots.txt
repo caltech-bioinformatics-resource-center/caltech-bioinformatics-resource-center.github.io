@@ -1,1 +1,1 @@
-Sitemap: https://caltech-bioinformatics-resource-center.github.io/CBRC/sitemap.xml
+Sitemap: https://caltech-bioinformatics-resource-center.github.io/sitemap.xml

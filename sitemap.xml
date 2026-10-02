@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://caltech-bioinformatics-resource-center.github.io/CBRC/about.html</loc>
+    <loc>https://caltech-bioinformatics-resource-center.github.io/about.html</loc>
     <lastmod>2025-11-17T20:06:35.046Z</lastmod>
   </url>
   <url>
-    <loc>https://caltech-bioinformatics-resource-center.github.io/CBRC/posts/welcome/index.html</loc>
+    <loc>https://caltech-bioinformatics-resource-center.github.io/posts/welcome/index.html</loc>
     <lastmod>2025-11-17T20:06:35.048Z</lastmod>
   </url>
   <url>
-    <loc>https://caltech-bioinformatics-resource-center.github.io/CBRC/contact.html</loc>
+    <loc>https://caltech-bioinformatics-resource-center.github.io/contact.html</loc>
     <lastmod>2025-11-17T20:06:35.047Z</lastmod>
   </url>
   <url>
-    <loc>https://caltech-bioinformatics-resource-center.github.io/CBRC/posts/post-with-code/index.html</loc>
+    <loc>https://caltech-bioinformatics-resource-center.github.io/posts/post-with-code/index.html</loc>
     <lastmod>2025-11-17T20:06:35.047Z</lastmod>
   </url>
   <url>
-    <loc>https://caltech-bioinformatics-resource-center.github.io/CBRC/index.html</loc>
+    <loc>https://caltech-bioinformatics-resource-center.github.io/index.html</loc>
     <lastmod>2025-11-17T20:10:20.679Z</lastmod>
   </url>
 </urlset>
